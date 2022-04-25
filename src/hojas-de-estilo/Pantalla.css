@@ -1,0 +1,14 @@
+.pantalla {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 20px;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    height: 50px;
+    font-weight: bold;
+    margin: 15px;
+    border: #e9c46a solid 1px;
+    font-size: 22px;
+}
